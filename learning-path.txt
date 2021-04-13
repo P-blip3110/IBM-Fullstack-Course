@@ -1,0 +1,9 @@
+1. IT Autmation with Python
+2. IBM Full Stack Cloud Developer
+3. IBM Data Analyst
+4. IBM Applied AI
+5. IBM AI Engineer
+
+Side:
+1. Flask
+2. MongoDB
